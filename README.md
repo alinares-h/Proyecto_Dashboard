@@ -1,2 +1,6 @@
-Dashboard en Excel basado en datos pediátricos Junta Castilla y León - periodo: enero + febrero 2026
+Dashboard en Excel basado en datos de consultas realizadas por pediatras en la Junta Castilla y León - periodo: enero + febrero 2026
 Fuente de datos: https://datos.gob.es/es/catalogo/a07002862-actividad-de-pediatria-a-nivel-de-zona-basica-de-salud-2026
+
+PASOS LIMIPIEZA DE DATOS:
+1.- Importación del ficher en Excel (pestaña "DATOS")
+2.- Limpieza de datos: renombrar campos (problema con los acentos), corregir acentos en todos los registros con error de todos los campos salvo "zona basica de salud), columna "sexo" corregidos los campos en blanco por SIN DATO; 
